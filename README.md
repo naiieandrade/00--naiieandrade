@@ -40,3 +40,5 @@ Os trabalhos serão projetos onde os alunos deverão aplicar as técnicas. Serã
 - (eBrary) Hawkins, B. Preventative Programming Techniques. Charles River Media, Cengage Learning, 03/2003. 
 - (eBrary) Gerard Meszaros. xUnit Test Patterns: Refactoring Test Code. Addison-Wesley, 2007. 
 - (eBrary) Tomayko, J. Hazzan, O. Human Aspects of Software Engineering, Charles River Media, Cengage Learning, 06/2004
+
+### Testando
